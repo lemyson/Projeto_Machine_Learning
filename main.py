@@ -34,6 +34,7 @@ modelo_LinearSVC(x,y)
 modelo_DummyClassifier(x,y)
 modelo_SVM(x,y)
 modelo_DecisionTreeClassifier(x,y)
+#modelo_teste(x1,y1)
 
 
 
